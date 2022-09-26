@@ -35,8 +35,6 @@ http://bulltv.us:2999/darlin/darlin/29636
 http://bulltv.us:2999/darlin/darlin/29637
 #EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Channels",ESPN DEPORTES
 http://bulltv.us:2999/darlin/darlin/22067
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR + HD (Solo Eventos)
-http://bulltv.us:2999/darlin/darlin/36563
 #EXTINF:0 tvg-id="ESPN3.br" group-title="Channels",ESPN PLUS
 http://bulltv.us:2999/darlin/darlin/22068
 #EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra HD
@@ -125,8 +123,6 @@ http://bulltv.us:2999/darlin/darlin/41
 http://bulltv.us:2999/darlin/darlin/42
 #EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV
 http://bulltv.us:2999/darlin/darlin/43
-#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="Channels",DISCOVERY EN ESPAÃ‘OL
-http://bulltv.us:2999/darlin/darlin/44
 #EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITO COMEDIA
 http://bulltv.us:2999/darlin/darlin/57
 #EXTINF:0 tvg-id="ElGarage.ar" group-title="Channels",EL GARAGE
@@ -149,8 +145,6 @@ http://bulltv.us:2999/darlin/darlin/73
 http://bulltv.us:2999/darlin/darlin/75
 #EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
 http://bulltv.us:2999/darlin/darlin/80
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Channels",FXM
-http://bulltv.us:2999/darlin/darlin/81
 #EXTINF:0 tvg-id="GalaTV.mx" group-title="Channels",GALA TV
 http://bulltv.us:2999/darlin/darlin/82
 #EXTINF:0 tvg-id="Glitz.mx" group-title="Channels",GLITZ
@@ -171,8 +165,6 @@ http://bulltv.us:2999/darlin/darlin/90
 http://bulltv.us:2999/darlin/darlin/97
 #EXTINF:0 tvg-id="Maxup.br" group-title="Channels",HBO POP
 http://bulltv.us:2999/darlin/darlin/98
-#EXTINF:0 tvg-id="Showtime.no" group-title="Channels",SHOWTIME
-http://bulltv.us:2999/darlin/darlin/111
 #EXTINF:0 tvg-id="set" group-title="Channels",SONY
 http://bulltv.us:2999/darlin/darlin/112
 #EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE
@@ -189,8 +181,6 @@ http://bulltv.us:2999/darlin/darlin/118
 http://bulltv.us:2999/darlin/darlin/119
 #EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
 http://bulltv.us:2999/darlin/darlin/120
-#EXTINF:0 tvg-id="Telehit.mx" group-title="Channels",TELEHIT
-http://bulltv.us:2999/darlin/darlin/122
 #EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
 http://bulltv.us:2999/darlin/darlin/6
 #EXTINF:0 tvg-id="ext" group-title="Channels",CDF PREMIUN
@@ -211,6 +201,8 @@ http://bulltv.us:2999/darlin/darlin/365
 http://bulltv.us:2999/darlin/darlin/366
 #EXTINF:0 tvg-id="HBOSignature.mx" group-title="Channels",HBO SIGNATURE
 http://bulltv.us:2999/darlin/darlin/246
+#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="Channels",DISCOVERY EN ESPAÃ‘OL
+http://bulltv.us:2999/darlin/darlin/44
 #EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL COMEDY
 http://bulltv.us:2999/darlin/darlin/247
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
