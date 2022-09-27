@@ -1,0 +1,489 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| WIN SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/511
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| WIN SPORTS HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/512
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| WIN SPORTS + HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/514
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| WIN SPORTS +
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/513
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| ESPN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/517
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| ESPN 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/518
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| ESPN 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/519
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| FOX SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/520
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| FOX SPORTS 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/521
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| FOX SPORTS 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/522
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN F1
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/879
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN 1
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/880
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/881
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/882
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN 4
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/883
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN  HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/438
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN 2 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/440
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN 2 SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/439
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN 3 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/442
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN 3 SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/441
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN EXTRA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/443
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN PREMIUM HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/430
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN PREMIUM SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/429
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/437
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 1 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/432
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 1 SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/431
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 2 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/434
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 2 SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/433
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 3 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/436
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| FOX SPORTS 3 SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/435
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TNT SPORTS HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/428
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TNT SPORTS SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/427
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TNT SPORTS HQ
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/555
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ESPN PREMIUM HQ
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/448
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| ESTADIO TNT SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/483
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/484
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/486
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS 2 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/487
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/488
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS 3 HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/489
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| TNT SPORTS HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/485
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TYC SPORTS HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/445
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TYC SPORTS SD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/444
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| EURO SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/884
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| EURO SPORTS 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/885
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| TENNIS CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/895
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| TVC DEPORTES
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/896
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| NBA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/897
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| M LIGA DE CAMPEONES
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/898
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| LIGA TV BAR
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/899
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| MOVISTAR LA LIGA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/900
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| CLARO SPORTS LATAM
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/901
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| REAL MADRID
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/904
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| VAMOS SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/905
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/906
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORT Ã‘
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/907
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| GOLF CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/908
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| ESPN 4
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/902
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| SPORTS FIGHT
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/910
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DIRECTV SPORTS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/888
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DIRECTV SPORTS 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/889
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DIRECTV SPORTS +
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/890
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| ESPN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/911
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| SF1
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/604
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| FS2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/894
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| SKY SPORT BUNDESLIGA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/893
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| SKY SPORT LA LIGA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/921
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS XTRA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/912
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BARCA TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/913
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| T-UDN USA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/914
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| DAZN LA LIGA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/903
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| ESPN EXTRA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/689
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| ESPN 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/690
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| ESPN 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/691
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| ESPN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/692
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| FOX SPORTS 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/693
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| FOX SPORTS 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/695
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| FOX SPORTS PREMIUM
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/699
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| TUDN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/697
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| FOX SPORTS 1
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/694
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| ESPN 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/915
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| ESPN 3
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/916
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| LA LIGA SMARTBANK TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/917
+#EXTINF:0 tvg-id="ext" group-title="Channels",CASO CERRADO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101734
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| A&E
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/257
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| AMC
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/258
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| AXN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/256
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| CINECANAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/260
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| CINEMAX
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/259
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| FX
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/358
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/567
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO +
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/566
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/255
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO MUNDI
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/565
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO POP
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/253
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO SIGNATURE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/564
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| HBO XTREME
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/524
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| PARAMOUNT
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/366
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| SONY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/365
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| SPACE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/254
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| TNT
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/541
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| TNT SERIES
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/542
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| CINE DINAMITA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/264
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| CINE LATINO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/265
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| CINECANAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/266
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| CINEMA PLUS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/267
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| CINEMAX
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/268
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| DPELICULA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/271
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| PARAMOUNT CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/291
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| SONY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/292
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| SONY MOVIES
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/275
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| SPACE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/293
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| STAR CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/295
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| STARZ ENCORE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/294
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| STUDIO UNIVERSAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/297
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| SUNDANCE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/298
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| SYFY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/299
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| TBS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/300
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| TNT
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/301
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| TNT SERIES
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/302
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/303
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL CINEMA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/305
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL COMEDY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/306
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL CRIMEN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/304
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL PREMIERE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/308
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| UNIVERSAL REALITY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/307
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| EUROPA EUROPA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/289
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| FILM & ART
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/273
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| FX
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/274
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| GOLDEN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/276
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| GOLDEN EDGE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/277
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| GOLDEN PLUS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/278
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| GOLDEN PREMIER
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/279
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/280
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO +
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/282
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/281
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO FAMILY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/284
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO MUNDI
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/285
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO POP
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/287
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO SIGNATURE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/283
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| HBO XTREME
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/286
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| UNIVERSAL CINEMA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/360
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| UNIVERSAL REALITY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/252
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| WARNER CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/364
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| ANIMAL PLANET
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/318
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/319
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY INVESTIGATION
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/322
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY SCIENCIE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/323
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY THEATHER
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/324
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY TLC
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/325
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY TURBO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/326
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| DISCOVERY WORLD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/327
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| E! ENTRETENIMIENTO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/328
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| EL GOURMET
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/329
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| FOOD NETWORK
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/330
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| GARAGETV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/331
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| GLITZ
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/332
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| HGTV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/333
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| HISTORY 2
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/334
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| HISTORY CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/335
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| NATIONAL GEOGRAFHY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/336
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| TRU TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/338
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| A&E
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/261
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| AMC
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/262
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| AXN
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/263
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| COMEDY CENTRAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/269
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| D/PELICULAS PLUS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/272
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| DHE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/270
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| I-SAT
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/288
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| LIFE TIME
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/290
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE HD| WARNER CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/309
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT HD| ANIMAL PLANET
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/343
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT HD| DISCOVERY CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/344
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT HD| TRU TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/356
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVELAS| TELEMUNDO INTERNACIONAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/928
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| SYFY
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/363
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE| TCM
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/362
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE | COMEDY CENTRAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/103640
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE | UNIVERSAL CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/296
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| LOVE NATURE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/340
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE | CLOVER CHANNEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/962
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT| MASCHIC
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/341
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULT | NAT GEO WILD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/355
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE | RETRO PLUS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/523
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOTICIAS| CNN ESPAÃ‘OL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/976
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOVELAS| TLNOVELAS UNIVISION
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/935
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARMA MORTAL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101636
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANTINFLAS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101641
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHAPULIN COLORADO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101642
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHESPIRITO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101643
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA MARVEL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101645
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA TERROR
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101646
+#EXTINF:0 tvg-id="ext" group-title="Channels",CONAN EL AVENTURERO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101647
+#EXTINF:0 tvg-id="ext" group-title="Channels",DURO DE MATAR
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101656
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAPULIN ANIMADO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101657
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOBO DEL AIRE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101692
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOS MAGNIFICOS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101693
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARADONA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101698
+#EXTINF:0 tvg-id="ext" group-title="Channels",CASO CERRADO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101734
+#EXTINF:0 tvg-id="ext" group-title="Channels",COBRA KAI
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101735
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMO DICE EL DICHO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101736
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL AUTO FANTASTICO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101746
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAVO DEL 8
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101750
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL NARRADOR DE CUENTOS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101751
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA ROSA DE GUADALUPE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101822
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA ACCION
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101840
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALERTA AEROPUERTO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101844
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL AUTO INCREIBLE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/101845
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| EL NUEVE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/424
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| EL TRECE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/423
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| ENCUENTRO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/417
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TODO NOTICIAS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/408
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| TV PUBLICA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/425
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARG| VOLVER
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/404
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| CHILEVISION HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/479
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL| CNN CHILE
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/477
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| CARACOL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/493
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| CARACOL HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/494
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| CANAL UNO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/505
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| RCN HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/508
+#EXTINF:0 tvg-id="ext" group-title="Channels",COL| NOTICIAS CARACOL
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/498
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC| ECUAVISA HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/546
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| AZTECA CORAZON
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/671
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| MUNDO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/672
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| A+
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/675
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| AZTECA UNO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/677
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| CANAL 5
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/681
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| ESTRELLA TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/683
+#EXTINF:0 tvg-id="ext" group-title="Channels",MX| AZTECA CLIC
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/673
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/696
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| TV PERU
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/736
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| TV PERU HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/737
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| PERU MAGICO
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/739
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| TV PERU NOTICIAS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/738
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| PANAMERICANA HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/745
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| LATINA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/746
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| LATINA HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/747
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| AMERICA TV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/748
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| PANAMERICANA
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/744
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| AMERICA TV PE HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/749
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| ATV
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/750
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| ATV PLUS
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/752
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| ATV HD
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/751
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE| CANAL N
+http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/760
+ 
