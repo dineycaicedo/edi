@@ -354,4 +354,13 @@ http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/752
 http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/751
 #EXTINF:0 tvg-id="ext" group-title="Channels",PE| CANAL N
 http://play.flamaplus.tv:25461/Edi/7s82uL59FPa9/760
- 
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rambo: Acorralado Parte II (1985)
+http://play.flamaplus.tv:25461/movie/Edi/7s82uL59FPa9/10468.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rambo III (1988)
+http://play.flamaplus.tv:25461/movie/Edi/7s82uL59FPa9/10469.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Acorralado (1982)
+http://play.flamaplus.tv:25461/movie/Edi/7s82uL59FPa9/10470.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",John Rambo (2008)
+http://play.flamaplus.tv:25461/movie/Edi/7s82uL59FPa9/10471.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Rambo: Last Blood (2019)
+http://play.flamaplus.tv:25461/movie/Edi/7s82uL59FPa9/10472.mp4 
